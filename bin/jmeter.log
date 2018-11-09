@@ -1,0 +1,192 @@
+2018-11-09 15:29:23,645 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2018-11-09 15:29:23,692 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-11-09 15:29:23,692 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-11-09 15:29:23,697 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-11-09 15:29:23,697 INFO o.a.j.JMeter: Version 5.0 r1840935
+2018-11-09 15:29:23,697 INFO o.a.j.JMeter: java.version=1.8.0_191
+2018-11-09 15:29:23,697 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-11-09 15:29:23,697 INFO o.a.j.JMeter: os.name=Windows 10
+2018-11-09 15:29:23,697 INFO o.a.j.JMeter: os.arch=amd64
+2018-11-09 15:29:23,697 INFO o.a.j.JMeter: os.version=10.0
+2018-11-09 15:29:23,697 INFO o.a.j.JMeter: file.encoding=Cp1252
+2018-11-09 15:29:23,697 INFO o.a.j.JMeter: Max memory     =1073741824
+2018-11-09 15:29:23,698 INFO o.a.j.JMeter: Available Processors =8
+2018-11-09 15:29:23,700 INFO o.a.j.JMeter: Default Locale=English (EN)
+2018-11-09 15:29:23,701 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2018-11-09 15:29:23,701 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0
+2018-11-09 15:29:23,701 INFO o.a.j.JMeter: user.dir  =C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin
+2018-11-09 15:29:23,701 INFO o.a.j.JMeter: PWD       =C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin
+2018-11-09 15:29:23,728 INFO o.a.j.JMeter: IP: 192.168.101.26 Name: DESKTOP-009 FullName: DESKTOP-009.axon-id.loc
+2018-11-09 15:29:24,254 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2018-11-09 15:29:24,265 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.sun.java.swing.plaf.windows.WindowsLookAndFeel [Darcula]
+2018-11-09 15:29:24,265 INFO o.a.j.JMeter: Setting LAF to: com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2018-11-09 15:29:24,279 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-11-09 15:29:25,434 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-11-09 15:29:25,435 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-11-09 15:29:26,230 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\byte-buddy-1.8.15.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\byte-buddy-1.8.15.jar
+2018-11-09 15:29:26,230 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\commons-exec-1.3.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\commons-exec-1.3.jar
+2018-11-09 15:29:26,230 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\guava-25.0-jre.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\guava-25.0-jre.jar
+2018-11-09 15:29:26,230 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\htmlunit-2.32.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\htmlunit-2.32.jar
+2018-11-09 15:29:26,230 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\htmlunit-core-js-2.32.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\htmlunit-core-js-2.32.jar
+2018-11-09 15:29:26,231 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\htmlunit-cssparser-1.2.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\htmlunit-cssparser-1.2.0.jar
+2018-11-09 15:29:26,231 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\htmlunit-driver-2.33.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\htmlunit-driver-2.33.0.jar
+2018-11-09 15:29:26,231 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\jmeter-plugins-cmn-jmeter-0.4.jar
+2018-11-09 15:29:26,231 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\jsyntaxpane-1.0.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\jsyntaxpane-1.0.0.jar
+2018-11-09 15:29:26,231 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\neko-htmlunit-2.32.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\neko-htmlunit-2.32.jar
+2018-11-09 15:29:26,231 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\okhttp-3.10.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\okhttp-3.10.0.jar
+2018-11-09 15:29:26,231 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\okio-1.14.1.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\okio-1.14.1.jar
+2018-11-09 15:29:26,232 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\phantomjsdriver-1.4.4.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\phantomjsdriver-1.4.4.jar
+2018-11-09 15:29:26,232 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\selenium-api-3.14.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\selenium-api-3.14.0.jar
+2018-11-09 15:29:26,232 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\selenium-chrome-driver-3.14.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\selenium-chrome-driver-3.14.0.jar
+2018-11-09 15:29:26,232 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\selenium-firefox-driver-3.14.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\selenium-firefox-driver-3.14.0.jar
+2018-11-09 15:29:26,232 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\selenium-ie-driver-3.14.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\selenium-ie-driver-3.14.0.jar
+2018-11-09 15:29:26,232 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\selenium-java-3.14.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\selenium-java-3.14.0.jar
+2018-11-09 15:29:26,232 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\selenium-remote-driver-3.14.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\selenium-remote-driver-3.14.0.jar
+2018-11-09 15:29:26,232 WARN o.j.r.PluginManager: Found JAR conflict: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\ext\selenium-support-3.14.0.jar and C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\lib\selenium-support-3.14.0.jar
+2018-11-09 15:29:26,316 INFO o.j.r.JARSourceHTTP: Found cached repo
+2018-11-09 15:29:26,420 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-dummy=0.2, jpgc-ffw=2.0, jpgc-perfmon=2.1, jpgc-plugins-manager=1.3, jpgc-webdriver=3.0, jmeter-core=5.0, jmeter-ftp=5.0, jmeter-http=5.0, jmeter-jdbc=5.0, jmeter-jms=5.0, jmeter-junit=5.0, jmeter-java=5.0, jmeter-ldap=5.0, jmeter-mail=5.0, jmeter-mongodb=5.0, jmeter-native=5.0, jmeter-tcp=5.0, jmeter-components=5.0]
+2018-11-09 15:29:27,927 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-11-09 15:29:27,928 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-11-09 15:29:27,928 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-11-09 15:29:27,928 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-11-09 15:29:27,928 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-11-09 15:29:27,928 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-11-09 15:29:28,830 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2018-11-09 15:29:28,830 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:29:29,062 INFO o.a.j.s.FileServer: Default base='C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin'
+2018-11-09 15:29:30,174 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-11-09 15:29:30,174 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-11-09 15:29:30,174 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-11-09 15:29:30,174 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-11-09 15:30:19,878 INFO o.a.j.g.a.t.TemplateManager: Reading templates from: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\templates\templates.xml
+2018-11-09 15:30:37,603 INFO o.a.j.g.a.Load: Loading file: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\templates\kd-webAppTestPlanTemplate1.jmx
+2018-11-09 15:30:37,609 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-11-09 15:30:37,613 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-11-09 15:30:37,614 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2018-11-09 15:30:37,616 INFO o.a.j.s.SaveService: Loading file: C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\templates\kd-webAppTestPlanTemplate1.jmx
+2018-11-09 15:30:37,714 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2018-11-09 15:30:37,717 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2018-11-09 15:31:18,761 INFO o.a.j.s.FileServer: Set new base='C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\workspace'
+2018-11-09 15:33:59,843 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2018-11-09 15:33:59,843 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2018-11-09 15:33:59,843 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2018-11-09 15:33:59,843 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2018-11-09 15:34:22,966 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2018-11-09 15:48:49,940 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2018-11-09 15:48:49,940 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2018-11-09 15:48:49,940 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2018-11-09 15:48:49,940 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2018-11-09 15:49:09,068 INFO o.a.j.p.h.p.Proxy: Proxy will remove the headers: If-Modified-Since,If-None-Match,Host
+2018-11-09 15:49:09,083 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-009
+2018-11-09 15:49:09,083 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2018-11-09 15:49:09,177 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-11-09 15:49:11,214 INFO o.a.j.p.h.p.ProxyControl: [13079]  Creating entry login.windows.net in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:49:16,181 INFO o.a.j.p.h.p.ProxyControl: [13083]  Creating entry docs.live.net in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:49:16,197 INFO o.a.j.p.h.p.Proxy: [13079]  KeyStore for SSL loaded OK and put host 'login.windows.net' in map with key (login.windows.net)
+2018-11-09 15:49:18,117 WARN o.a.j.p.h.p.Proxy: [13079]  Problem with SSL certificate for url  for 'login.windows.net'? Ensure browser is set to accept the JMeter proxy cert: Remote host closed connection during handshake
+2018-11-09 15:49:21,210 INFO o.a.j.p.h.p.ProxyControl: [13090]  Creating entry roaming.officeapps.live.com in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:49:21,226 INFO o.a.j.p.h.p.Proxy: [13083]  KeyStore for SSL loaded OK and put host 'docs.live.net' in map with key (docs.live.net)
+2018-11-09 15:49:21,257 WARN o.a.j.p.h.p.Proxy: [13083]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for docs.live.net:443
+2018-11-09 15:49:21,257 WARN o.a.j.p.h.p.Proxy: [13082]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for docs.live.net:443
+2018-11-09 15:49:21,448 WARN o.a.j.p.h.p.Proxy: [13096]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for docs.live.net:443
+2018-11-09 15:49:21,448 WARN o.a.j.p.h.p.Proxy: [13095]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for docs.live.net:443
+2018-11-09 15:49:26,791 INFO o.a.j.p.h.p.Proxy: [13090]  KeyStore for SSL loaded OK and put host 'roaming.officeapps.live.com' in map with key (roaming.officeapps.live.com)
+2018-11-09 15:49:26,803 WARN o.a.j.p.h.p.Proxy: [13090]  Problem with SSL certificate for url  for 'roaming.officeapps.live.com'? Ensure browser is set to accept the JMeter proxy cert: Remote host closed connection during handshake
+2018-11-09 15:49:26,897 WARN o.a.j.p.h.p.Proxy: [13106]  Problem with SSL certificate for url  for 'roaming.officeapps.live.com'? Ensure browser is set to accept the JMeter proxy cert: Remote host closed connection during handshake
+2018-11-09 15:49:36,386 INFO o.a.j.p.h.p.ProxyControl: [13119]  Creating entry uat.royalbank.can-act.com in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:49:41,451 INFO o.a.j.p.h.p.Proxy: [13119]  KeyStore for SSL loaded OK and put host 'uat.royalbank.can-act.com' in map with key (uat.royalbank.can-act.com)
+2018-11-09 15:49:41,470 WARN o.a.j.p.h.p.Proxy: [13119]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:49:41,470 WARN o.a.j.p.h.p.Proxy: [13120]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:49:43,834 INFO o.a.j.p.h.p.ProxyControl: [13131]  Creating entry array807-prod.do.dsp.mp.microsoft.com in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:49:45,048 WARN o.a.j.p.h.p.Proxy: [13134]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:49:45,048 WARN o.a.j.p.h.p.Proxy: [13135]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:49:48,840 INFO o.a.j.p.h.p.Proxy: [13131]  KeyStore for SSL loaded OK and put host 'array807-prod.do.dsp.mp.microsoft.com' in map with key (array807-prod.do.dsp.mp.microsoft.com)
+2018-11-09 15:49:50,190 WARN o.a.j.p.h.p.Proxy: [13131]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for array807-prod.do.dsp.mp.microsoft.com:443
+2018-11-09 15:49:56,810 INFO o.a.j.p.h.p.ProxyControl: [13153]  Creating entry clients4.google.com in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:50:01,708 INFO o.a.j.p.h.p.Proxy: [13153]  KeyStore for SSL loaded OK and put host 'clients4.google.com' in map with key (clients4.google.com)
+2018-11-09 15:50:01,720 WARN o.a.j.p.h.p.Proxy: [13153]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for clients4.google.com:443
+2018-11-09 15:50:04,826 WARN o.a.j.p.h.p.Proxy: [13165]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:50:04,826 WARN o.a.j.p.h.p.Proxy: [13166]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:50:17,216 INFO o.a.j.p.h.p.ProxyControl: [13183]  Creating entry nexus.officeapps.live.com in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:50:22,247 INFO o.a.j.p.h.p.ProxyControl: [13189]  Creating entry support.google.com in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:50:22,253 INFO o.a.j.p.h.p.Proxy: [13183]  KeyStore for SSL loaded OK and put host 'nexus.officeapps.live.com' in map with key (nexus.officeapps.live.com)
+2018-11-09 15:50:22,276 WARN o.a.j.p.h.p.Proxy: [13183]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for nexus.officeapps.live.com:443
+2018-11-09 15:50:22,452 WARN o.a.j.p.h.p.Proxy: [13192]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for nexus.officeapps.live.com:443
+2018-11-09 15:50:22,465 WARN o.a.j.p.h.p.Proxy: [13193]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for nexus.officeapps.live.com:443
+2018-11-09 15:50:27,338 INFO o.a.j.p.h.p.Proxy: [13189]  KeyStore for SSL loaded OK and put host 'support.google.com' in map with key (support.google.com)
+2018-11-09 15:50:27,355 WARN o.a.j.p.h.p.Proxy: [13189]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for support.google.com:443
+2018-11-09 15:50:27,355 WARN o.a.j.p.h.p.Proxy: [13188]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for support.google.com:443
+2018-11-09 15:50:46,913 WARN o.a.j.p.h.p.Proxy: [13228]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:50:46,914 WARN o.a.j.p.h.p.Proxy: [13227]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:50:52,354 WARN o.a.j.p.h.p.Proxy: [13237]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:50:52,354 WARN o.a.j.p.h.p.Proxy: [13238]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:50:59,258 WARN o.a.j.p.h.p.Proxy: [13248]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:50:59,258 WARN o.a.j.p.h.p.Proxy: [13247]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:51:03,801 WARN o.a.j.p.h.p.Proxy: [13258]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:51:03,801 WARN o.a.j.p.h.p.Proxy: [13257]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:51:08,769 WARN o.a.j.p.h.p.Proxy: [13264]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:51:08,769 WARN o.a.j.p.h.p.Proxy: [13265]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for uat.royalbank.can-act.com:443
+2018-11-09 15:51:20,807 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2018-11-09 15:53:08,855 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-11-09 15:53:08,855 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-11-09 15:53:08,861 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2018-11-09 15:53:09,078 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : JMeter Users
+2018-11-09 15:53:09,079 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group JMeter Users.
+2018-11-09 15:53:09,079 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-11-09 15:53:09,079 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=2 perThread=1000.0 delayedStart=false
+2018-11-09 15:53:09,087 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-11-09 15:53:09,088 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Recording
+2018-11-09 15:53:09,088 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Recording.
+2018-11-09 15:53:09,088 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-11-09 15:53:09,088 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-11-09 15:53:09,089 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2018-11-09 15:53:09,089 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-11-09 15:53:09,091 INFO o.a.j.t.JMeterThread: Thread started: Recording 2-1
+2018-11-09 15:53:09,090 INFO o.a.j.t.JMeterThread: Thread started: JMeter Users 1-1
+2018-11-09 15:53:09,092 INFO o.a.j.s.FileServer: Stored: C:/apache-jmeter/apache-jmeter-5.0/apache-jmeter-5.0/bin/workspace/login.csv
+2018-11-09 15:53:09,109 WARN o.a.j.p.h.c.KerberosManager: Could not log in user ${AUTH_LOGIN}
+javax.security.auth.login.LoginException: No LoginModules configured for JMeter
+	at javax.security.auth.login.LoginContext.init(Unknown Source) ~[?:1.8.0_191]
+	at javax.security.auth.login.LoginContext.<init>(Unknown Source) ~[?:1.8.0_191]
+	at org.apache.jmeter.protocol.http.control.KerberosManager.lambda$getSubjectForUser$0(KerberosManager.java:68) ~[ApacheJMeter_http.jar:5.0 r1840935]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_191]
+	at org.apache.jmeter.protocol.http.control.KerberosManager.getSubjectForUser(KerberosManager.java:83) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.control.AuthManager.getSubjectForUrl(AuthManager.java:294) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:820) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:570) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1231) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1220) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:622) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:546) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:486) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:253) [ApacheJMeter_core.jar:5.0 r1840935]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+2018-11-09 15:53:09,149 INFO o.a.j.t.JMeterThread: Thread is done: Recording 2-1
+2018-11-09 15:53:09,150 INFO o.a.j.t.JMeterThread: Thread finished: Recording 2-1
+2018-11-09 15:53:10,090 INFO o.a.j.t.JMeterThread: Thread started: JMeter Users 1-2
+2018-11-09 15:53:14,038 INFO o.a.j.g.a.Start: Shutting test down
+2018-11-09 15:53:14,046 INFO o.a.j.t.JMeterThread: Stopping: JMeter Users 1-1
+2018-11-09 15:53:14,047 INFO o.a.j.t.JMeterThread: Stopping: JMeter Users 1-2
+2018-11-09 15:53:15,261 INFO o.a.j.t.JMeterThread: Thread finished: JMeter Users 1-1
+2018-11-09 15:53:16,737 INFO o.a.j.t.JMeterThread: Thread finished: JMeter Users 1-2
+2018-11-09 15:53:16,737 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-11-09 15:53:16,737 INFO o.a.j.s.FileServer: Close: C:/apache-jmeter/apache-jmeter-5.0/apache-jmeter-5.0/bin/workspace/login.csv
+2018-11-09 15:53:16,737 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2018-11-09 15:53:51,818 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2018-11-09 15:53:51,818 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2018-11-09 15:53:51,818 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2018-11-09 15:53:51,818 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2018-11-09 15:53:59,887 INFO o.a.j.p.h.p.ProxyControl: [14090]  Creating entry www.google.ca in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:54:04,983 INFO o.a.j.p.h.p.ProxyControl: [14092]  Creating entry www.gstatic.com in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:54:04,986 INFO o.a.j.p.h.p.Proxy: [14090]  KeyStore for SSL loaded OK and put host 'www.google.ca' in map with key (www.google.ca)
+2018-11-09 15:54:05,006 WARN o.a.j.p.h.p.Proxy: [14090]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for www.google.ca:443
+2018-11-09 15:54:10,224 INFO o.a.j.p.h.p.ProxyControl: [14091]  Creating entry lh3.googleusercontent.com in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:54:10,228 INFO o.a.j.p.h.p.Proxy: [14092]  KeyStore for SSL loaded OK and put host 'www.gstatic.com' in map with key (www.gstatic.com)
+2018-11-09 15:54:10,244 WARN o.a.j.p.h.p.Proxy: [14092]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for www.gstatic.com:443
+2018-11-09 15:54:15,433 INFO o.a.j.p.h.p.ProxyControl: [14104]  Creating entry www.googleapis.com in C:\apache-jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2018-11-09 15:54:15,433 INFO o.a.j.p.h.p.Proxy: [14091]  KeyStore for SSL loaded OK and put host 'lh3.googleusercontent.com' in map with key (lh3.googleusercontent.com)
+2018-11-09 15:54:15,452 WARN o.a.j.p.h.p.Proxy: [14091]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for lh3.googleusercontent.com:443
+2018-11-09 15:54:20,458 INFO o.a.j.p.h.p.Proxy: [14104]  KeyStore for SSL loaded OK and put host 'www.googleapis.com' in map with key (www.googleapis.com)
+2018-11-09 15:54:20,483 WARN o.a.j.p.h.p.Proxy: [14104]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for www.googleapis.com:443
+2018-11-09 15:54:43,832 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
