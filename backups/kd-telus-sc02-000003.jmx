@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jmeterTestPlan version="1.2" properties="4.0" jmeter="4.0 r1823414">
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.0 r1840935">
   <hashTree>
     <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="telus-sc01" enabled="true">
       <stringProp name="TestPlan.comments">BlazeMeter v.2.0.367. JMeter version 5.0. Add Account to Payment Air Traveller&apos;s Security Charge -- ATSC</stringProp>
