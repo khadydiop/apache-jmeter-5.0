@@ -1,0 +1,68 @@
+﻿Federal - Softwood Lumber Products Export Chrg -- SLPEX,com.telus.apt.model.tran.FiTranCDPK@438,SL,135555555SL0001
+Air Traveller's Security Charge -- ATSC,com.telus.apt.model.tran.FiTranCDPK@436,RG,135555555RG0001
+Federal - Corporation Tax Payments -- TXINS,com.telus.apt.model.tran.FiTranCDPK@432,RC,135555555RC0001,Yes(Extradata)
+Federal - Excise Duty -- FDEXD,com.telus.apt.model.tran.FiTranCDPK@434,RD,135555555RD0001
+Federal - Excise Tax -- FDEXT,com.telus.apt.model.tran.FiTranCDPK@435,RE,135555555RE0001
+Federal - GST/HST  Return and Payment -- GST34 -- (GST34),com.telus.apt.model.tran.FiTranCDPK@440,RT,135555555RT0001
+Federal - GST/HST Payment only -- GST-P -- (GST-P),com.telus.apt.model.tran.FiTranCDPK@458,RT,135555555RT0002
+Federal - Non-Resident Withholding Tax-Part XIII -- NRWHT,com.telus.apt.model.tran.FiTranCDPK@439,NR,NRD333338,Yes(AccNumber)
+Federal - Personal Tax Instalment -- TXINS,com.telus.apt.model.tran.FiTranCDPK@433,,423456789,Yes(AccNumber)
+Federal - Tax on Insurance Premiums -- FDTIP,com.telus.apt.model.tran.FiTranCDPK@437,RN,135555555RN0001
+Federal Payroll Deductions - Arrears -- EMPTX -- (PD7D),com.telus.apt.model.tran.FiTranCDPK@42c,NR,NRK467815
+Federal Payroll Deductions - Monthly/Quarterly -- EMPTX -- (PD7A),com.telus.apt.model.tran.FiTranCDPK@42b,NR,NRK467815
+Federal Payroll Deductions - Threshold 1 -- EMPTX -- (PD7A-TM),com.telus.apt.model.tran.FiTranCDPK@429,NR,NRK467815
+Federal Payroll Deductions - Threshold 2 -- EMPTX -- (PD7A-RB),com.telus.apt.model.tran.FiTranCDPK@42,NR,NRK467815
+Alberta Finance - 911 Levy -- AB911,com.telus.apt.model.tran.FiTranCDPK@7ad,,
+Alberta Finance - Carbon Levy -- ABCL,com.telus.apt.model.tran.FiTranCDPK@7b6,,
+Alberta Finance - Carbon Levy Inventory Decl. -- ABCLD,com.telus.apt.model.tran.FiTranCDPK@7b5,,
+Alberta Finance - Corporate Income Tax -- ABCIT -- (AT 1),com.telus.apt.model.tran.FiTranCDPK@7a7,,
+Alberta Finance - Fuel Tax - Railway Companies -- ABRC -- (AT 363),com.telus.apt.model.tran.FiTranCDPK@7aa,,
+Alberta Finance - Fuel Tax Collectors -- ABOMC -- (AT 362),com.telus.apt.model.tran.FiTranCDPK@7a8,,
+Alberta Finance - Health Costs Recovery -- ABHCR -- (AT 252),com.telus.apt.model.tran.FiTranCDPK@7ab,,
+Alberta Finance - Insurance Corporations Tax -- ABINS -- (AT 2095),com.telus.apt.model.tran.FiTranCDPK@7ae,,
+Alberta Finance - International Fuel Tax (IFTA) -- ABIFT -- (AT 2059),com.telus.apt.model.tran.FiTranCDPK@7af,,
+Alberta Finance - Propane Tax Collectors -- ABLPG -- (AT 360),com.telus.apt.model.tran.FiTranCDPK@7b1,,
+Alberta Finance - Tobacco Tax -- ABTBX -- (AT 300),com.telus.apt.model.tran.FiTranCDPK@7b2,,
+Alberta Finance - Tourism Levy -- ABHRT -- (AT 317),com.telus.apt.model.tran.FiTranCDPK@7ac,,
+Alberta Finance - Unclaimed Property Program -- ABUPP,com.telus.apt.model.tran.FiTranCDPK@7b4,,
+Alberta School Employee Benefit Payment -- ASEBP,com.telus.apt.model.tran.FiTranCDPK@686,,
+Alberta School Employee Health Spending Account -- ASEHS,com.telus.apt.model.tran.FiTranCDPK@687,,
+Alberta Teacher's Association Payment -- ATA,com.telus.apt.model.tran.FiTranCDPK@685,,
+Alberta Teacher's Retirement Payment -- ATRF,com.telus.apt.model.tran.FiTranCDPK@684,,
+British Columbia Provincial Sales Tax -- BCPST -- (FIN 400),com.telus.apt.model.tran.FiTranCDPK@73e,,
+WCB of Nova Scotia Premium -- WCBNS -- (W1-B),com.telus.apt.model.tran.FiTranCDPK@7e1,,
+Family Resp. Office - Ontario Payment -- MAG,com.telus.apt.model.tran.FiTranCDPK@5de,,
+Ontario Corporation Tax -- ONCT -- (0626),com.telus.apt.model.tran.FiTranCDPK@7da,,
+Ontario Employer Health Tax -- ONEHT -- (1334),com.telus.apt.model.tran.FiTranCDPK@46e,,
+PEI - 911 Cost Recovery Fee Return -- PEIRF -- (07PT15-16530),com.telus.apt.model.tran.FiTranCDPK@707,,
+PEI - Financial Corporation Capital Tax Annual -- PEICT -- (04PT15-9707),com.telus.apt.model.tran.FiTranCDPK@706,,
+PEI - Financial Corporation Capital Tax Monthly -- PEICT,com.telus.apt.model.tran.FiTranCDPK@70a,,
+PEI - Fuel Tax Return -- PEIFT -- (07PT15-17418),com.telus.apt.model.tran.FiTranCDPK@705,,
+PEI - GeoLinc Plus Payment Remittance -- PEIGL -- (06PT15-15423),com.telus.apt.model.tran.FiTranCDPK@708,,
+PEI - Prince Edward Island Property Tax Payment -- PEIPT -- (07PT15-17419),com.telus.apt.model.tran.FiTranCDPK@703,,
+PEI - Vendor Return - Environment Tax -- PEIET -- (04PT15-10093),com.telus.apt.model.tran.FiTranCDPK@709,,
+PEI - Vendor Return - Revenue Tax (PST) -- PEIRE,com.telus.apt.model.tran.FiTranCDPK@702,,
+PEI - Wholesale Tobacco Vendors Return -- PEITR -- (05PT15-10616),com.telus.apt.model.tran.FiTranCDPK@704,,
+QUEBEC COMBINED GST/HST + QST REMITTANCE -- G-QST -- (FPZ-500.IF),com.telus.apt.model.tran.FiTranCDPK@54f,,
+QUEBEC GST/HST REMITTANCE -- GST -- (FPZ-34.IF),com.telus.apt.model.tran.FiTranCDPK@54e,,
+Quebec - CNESST Payment -- CSST -- (TPZ-1015.R.14.5),com.telus.apt.model.tran.FiTranCDPK@559,,
+Quebec Collection of Support Payments -- RPPAQ -- (PPA-101),com.telus.apt.model.tran.FiTranCDPK@555,,
+Quebec Combined GST + QST Instalment -- TXIN -- (FPZ-558),com.telus.apt.model.tran.FiTranCDPK@554,,
+Quebec Corporate Remittance Income Tax -- DECOR -- (COZ-1027.R),com.telus.apt.model.tran.FiTranCDPK@550,,
+Quebec GST Instalment -- GSTIN -- (FPZ 58),com.telus.apt.model.tran.FiTranCDPK@553,,
+Quebec Payroll Source Deduction - Quarterly -- PAY -- (TPZ-1015.R.14.4),com.telus.apt.model.tran.FiTranCDPK@556,,
+Quebec Payroll Source Deductions - Twice Monthly -- PAY -- (TPZ-1015.R.14.2),om.telus.apt.model.tran.FiTranCDPK@54a,,
+Quebec Payroll Source Deductions - Weekly -- PAY -- (TPZ-1015.R.14.3),com.telus.apt.model.tran.FiTranCDPK@54b,,
+Quebec Payroll Source Deductions -Monthly/Yearly -- PAY -- (TPZ-1015.R.14.1),com.telus.apt.model.tran.FiTranCDPK@54c,,
+Quebec Personal Instalment Remittance -- COREC -- (TPZ-1026.A),com.telus.apt.model.tran.FiTranCDPK@551,,
+Quebec QST Instalment -- QSTIN -- (VDZ-458.0.1),com.telus.apt.model.tran.FiTranCDPK@552,,
+Quebec QST Remittance -- QST -- (VDZ-471),com.telus.apt.model.tran.FiTranCDPK@54d,,
+Quebec Specific Duty on New Tires -- PNUES -- (VDZ-541.49),com.telus.apt.model.tran.FiTranCDPK@558,,
+Quebec Tax on Insurance Premiums -- ASSUR -- (VDZ-527),com.telus.apt.model.tran.FiTranCDPK@557,,
+Revenu Québec-Payment code -- PCRQ,com.telus.apt.model.tran.FiTranCDPK@55a,,
+Saskatchewan Corporate Capital Tax Instalment -- SKCOR -- (FI-1245),com.telus.apt.model.tran.FiTranCDPK@488,,
+Saskatchewan Education Property Tax -- SKEPT,com.telus.apt.model.tran.FiTranCDPK@487,,
+Saskatchewan Fuel Tax 10A -- SKFUL -- (FI-1242),com.telus.apt.model.tran.FiTranCDPK@485,,
+Saskatchewan Liquor Consumption Tax -- SKLQR -- (FI-1244),com.telus.apt.model.tran.FiTranCDPK@484,,
+Saskatchewan Provincial Sales Tax -- SKTAX -- (FI-1241),com.telus.apt.model.tran.FiTranCDPK@482,,
+Saskatchewan Wholesale Tobacco Tax -- SKTOB,com.telus.apt.model.tran.FiTranCDPK@486,,

@@ -1,0 +1,8 @@
+﻿PaymentType(InfoOnly),PaymentTypeHTMLID,AccountNumberSubCode,AccountNumber,SpecialCase
+Federal - GST/HST  Return and Payment -- GST34 -- (GST34),com.telus.apt.model.tran.FiTranCDPK@440,RT,135555555RT0009,,
+QUEBEC COMBINED GST/HST + QST REMITTANCE -- G-QST -- (FPZ-500.IF),com.telus.apt.model.tran.FiTranCDPK@54f,TQ,1034132638TQ0001,,
+Quebec Payroll Source Deductions -Monthly/Yearly -- PAY -- (TPZ-1015.R.14.1),com.telus.apt.model.tran.FiTranCDPK@54c,,10341326380001,,
+Federal Payroll Deductions - Monthly/Quarterly -- EMPTX -- (PD7A),com.telus.apt.model.tran.FiTranCDPK@42b,NR,NRK467815,,
+Federal - Corporation Tax Payments -- TXINS,com.telus.apt.model.tran.FiTranCDPK@432,RC,102546108RC0005,,
+
+
